@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Deepak.
 - 🤪 Call me as "Deepu".equals("Deepak")=true
-- 👀 @Interested Area({Java,SpringBoot,MicroServices,Backend})
+- 👀 @Interested Area({"Java","SpringBoot","MicroServices","Backend"})
 - 📫 Reach Me -> deepaktmalai65@gmail.com
